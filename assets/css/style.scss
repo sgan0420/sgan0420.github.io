@@ -1,7 +1,18 @@
-.sidebar__inner {
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sidebar {
+  width: 25%; /* Adjust width as necessary */
   padding: 20px;
   background-color: #f8f8f8;
   border-right: 1px solid #e0e0e0;
+}
+
+.site-main {
+  width: 75%; /* Adjust width as necessary */
+  padding: 20px;
 }
 
 .author__avatar img {
