@@ -5,11 +5,13 @@ minimal_mistakes_skin: "dark"
 # Site settings
 locale: "en"
 title: "Gan Shijie"
+title_separator: "|"
 subtitle: "Computer Science | Mechanical Engineering | Software Development"
 name: "Gan Shijie"
 description: "A portfolio of my projects and experiences."
 url: "https://sgan0420.github.io"
 masthead_title: "Shijie's Portfolio"
+logo: "/assets/images/masthead_logo.png"
 
 
 plugins:
