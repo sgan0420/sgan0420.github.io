@@ -3,4 +3,5 @@ description: A showcase of my projects, skills, and experiences in computer scie
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
+  - jekyll-feed
   - jekyll-include-cache
