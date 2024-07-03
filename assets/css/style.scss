@@ -1,0 +1,34 @@
+.sidebar__inner {
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-right: 1px solid #e0e0e0;
+}
+
+.author__avatar img {
+  border-radius: 50%;
+  max-width: 150px;
+  margin-bottom: 15px;
+}
+
+.author__name {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.author__bio {
+  margin-bottom: 15px;
+}
+
+.author__urls-list {
+  list-style: none;
+  padding: 0;
+}
+
+.author__urls-item {
+  margin-bottom: 10px;
+}
+
+.author__urls-item a {
+  text-decoration: none;
+  color: #007acc;
+}
