@@ -15,6 +15,7 @@ logo: "/assets/images/masthead_logo.png"
 breadcrumbs: true
 words_per_minute: 200
 enable_copy_code_button: true
+author_profile: true
 
 # Atom Feed Settings
 atom_feed:
