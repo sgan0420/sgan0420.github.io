@@ -1,7 +1,23 @@
 title: Gan Shijie
-description: A showcase of my projects, skills, and experiences in computer science and web development.
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+author:
+  name: Gan Shijie
+  avatar: /assets/images/profile.jpg
+  bio: "bioooooo"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/sgan0420"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/shijie-gan-968926197"
+    - label: "Instagram"
+      url: "https://www.instagram.com/gan_shijie"
 
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+sidebar:
+  enabled: true
+  sticky: true
+  entry_display: show
