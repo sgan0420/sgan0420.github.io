@@ -6,13 +6,33 @@ minimal_mistakes_skin: "dark"
 locale: "en"
 title: "Gan Shijie"
 title_separator: "|"
-subtitle: "Computer Science | Mechanical Engineering | Software Development"
+subtitle: "Computer Science at Monash University | Mechanical Engineering at Imperial College London"
 name: "Gan Shijie"
 description: "A portfolio of my projects and experiences."
 url: "https://sgan0420.github.io"
 masthead_title: "Shijie's Portfolio"
 logo: "/assets/images/masthead_logo.png"
+breadcrumbs: true
+words_per_minute: 200
+enable_copy_code_button: true
 
+# Atom Feed Settings
+atom_feed:
+  hide: true
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 plugins:
   - jekyll-feed
