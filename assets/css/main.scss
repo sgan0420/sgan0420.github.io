@@ -1,8 +1,0 @@
-// Import the selected skin from the Minimal Mistakes theme
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-
-// Import Minimal Mistakes base styles
-@import "minimal-mistakes";
-
-// Import any custom styles after the theme styles
-@import "minimal-mistakes/utilities";
